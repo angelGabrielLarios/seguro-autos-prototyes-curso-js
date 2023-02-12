@@ -1,0 +1,20 @@
+:root {
+    --colorPrincipal: #38b2ac;
+}
+
+
+body {
+    min-height: 100vh;
+    background-image: linear-gradient(to top left, #904e95, #e96443);
+}
+
+.title {
+    background-color: var(--colorPrincipal);
+}
+
+
+.btn-custom {
+    background-color: #38b2ac;
+    border: 0;
+    outline: 0;
+}
